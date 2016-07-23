@@ -1,0 +1,23 @@
+{
+  "name": "flatten-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharvit/flatten-js.git"
+  },
+  "author": "Avi Sharvit <sharvita@gmail.com> (https://sharvit.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharvit/flatten-js/issues"
+  },
+  "homepage": "https://github.com/sharvit/flatten-js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
